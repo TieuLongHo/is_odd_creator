@@ -9,7 +9,7 @@ def is_odd(num: int) -> bool:
 
 num = int(input('Enter Range:'))
 
-with open("isodd.py", "w") as file:
+with open("is_odd.py", "w") as file:
     file.write(f"def is_odd(num: int) -> bool:\n")
 
     for i in range(num + 1):
@@ -22,4 +22,4 @@ while (num := int(input('Enter Number:'))):
     print(f'The Number {num} is {is_odd_text}')""")
 
 print(
-    f"The program is succesfully created in this directory :{getcwd()}/isodd.py")
+    f"The program is succesfully created in this directory :{getcwd()}/is_odd.py")
