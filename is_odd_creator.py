@@ -9,7 +9,7 @@ def is_odd(num: int) -> bool:
 
 num = int(input('Enter Range:'))
 
-with open("isodd.py", "w") as file:
+with open("is_odd.py", "w") as file:
     file.write(f"def is_odd(num: int) -> bool:\n")
 
     for i in range(num + 1):
