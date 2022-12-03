@@ -7,7 +7,7 @@ To use `is_odd_creator.py`, run the script:
 ```bash
 $ python3 is_odd_creator.py
 # then
-$ python3 isodd.py
+$ python3 is_odd.py
 ```
 ## What is an odd number⁉️
 A number is said to possess the characteristic property of oddity when it satisfies the criterion of not being evenly divisible 
