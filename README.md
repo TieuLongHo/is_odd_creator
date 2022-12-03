@@ -1,4 +1,4 @@
-# The is odd creator 🪄1️⃣2️⃣💯🆘
+# The "is odd creator" 🪄1️⃣2️⃣💯🆘
 A simple Python script for checking if a number is odd. 
 
 ## Usage
